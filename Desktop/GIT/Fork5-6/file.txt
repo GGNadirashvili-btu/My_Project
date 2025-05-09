@@ -4,3 +4,8 @@ Feature line 3
 test
 test2
 Feature line 1
+<<<<<<< HEAD
+=======
+Feature line 2
+Feature line 3
+>>>>>>> feature-branch
