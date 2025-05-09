@@ -5,7 +5,10 @@ test
 test2
 Feature line 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 Feature line 2
 Feature line 3
 >>>>>>> feature-branch
+=======
+>>>>>>> de76b37 (Feature commit 1)
